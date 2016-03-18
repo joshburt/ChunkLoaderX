@@ -1,0 +1,28 @@
+#ChunkLoaderX configuration file v0.4
+
+#set to -1.0 if you dont want to use the economy feature
+#requires Vault
+price: -1.0
+
+#set to false if you dont want to use the chunkloader feature
+chunkloaderblock: true
+
+#set to false if you dont want the chunkloader to drop when broken
+#chunkloaderblock has to be true for this
+droponbreak: true
+
+#maximal loaded chunks for one player
+maximalchunks: 5
+
+#time until a chunk gets unloaded in seconds
+#set to -1 for infinite time
+#used only for the command-feature
+timecommand: 600
+
+#time until a chunk gets unloaded in seconds
+#set to -1 for infinite time
+#used only for the chunkloader feature
+timechunkloader: 600
+
+#set to true if you want to enable the chunk-marking with particles
+showParticles: true
