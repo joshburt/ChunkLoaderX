@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../spigot" />
+          <root url="file://$MODULE_DIR$/../spigot" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../spigot" />
+          <root url="file://$MODULE_DIR$/../spigot/Bukkit/src/main/java" />
+          <root url="file://$MODULE_DIR$/../spigot/Bukkit/src/main/javadoc" />
+          <root url="file://$MODULE_DIR$/../spigot/Bukkit/src/test/java" />
+          <root url="file://$MODULE_DIR$/../spigot/CraftBukkit/src/main/java" />
+          <root url="file://$MODULE_DIR$/../spigot/CraftBukkit/src/test/java" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/Bukkit/src/main/java" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/Bukkit/src/main/javadoc" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/Bukkit/src/test/java" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/CraftBukkit/src/main/java" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/CraftBukkit/src/test/java" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/Spigot-API/src/main/java" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/Spigot-API/src/main/javadoc" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/Spigot-API/src/test/java" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/Spigot-Server/src/main/java" />
+          <root url="file://$MODULE_DIR$/../spigot/Spigot/Spigot-Server/src/test/java" />
+          <root url="file://$MODULE_DIR$/../spigot/work/decompile-8a44ec4c" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../spigot" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../spigot" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

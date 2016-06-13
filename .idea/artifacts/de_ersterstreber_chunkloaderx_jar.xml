@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="de.ersterstreber.chunkloaderx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/de_ersterstreber_chunkloaderx_jar</output-path>
+    <root id="archive" name="chunkloaderx.jar">
+      <element id="module-output" name="de.ersterstreber.chunkloaderx" />
+    </root>
+  </artifact>
+</component>
